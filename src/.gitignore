@@ -12,6 +12,7 @@ build/
 develop-eggs/
 dist/
 downloads/
+data/questions.json
 eggs/
 .eggs/
 lib/
